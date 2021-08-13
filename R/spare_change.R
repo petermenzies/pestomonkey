@@ -27,7 +27,6 @@ spare_change <- function() {
 }
 
 
-spare_change()
 
 
 
